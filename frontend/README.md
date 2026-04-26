@@ -109,7 +109,7 @@ todo-app/
 
 ## 👨‍💻 Autor
 
-Hecho por **Lautaro(https://github.com/VillagranLautaro)**
+Hecho por **[Lautaro](https://github.com/VillagranLautaro)**
 
 ---
 
