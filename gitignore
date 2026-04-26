@@ -1,0 +1,32 @@
+# Dependencias de Node.js (se regeneran con npm install)
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Base de datos SQLite (se crea automáticamente al correr el backend)
+backend/tasks.db
+backend/tasks.db-shm
+backend/tasks.db-wal
+
+# Build de producción del frontend
+frontend/dist/
+
+# Variables de entorno (¡nunca subas tus claves!)
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operativo
+.DS_Store       # macOS
+Thumbs.db       # Windows
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
